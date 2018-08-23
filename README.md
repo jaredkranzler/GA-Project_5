@@ -46,10 +46,11 @@ By Day 7: Bug fix & stretch goals
 (Friday, 31st)
 Presentations 
 
+ERD Diagram
+![alt text](https://github.com/jaredkranzler/GA-Project_5/blob/master/Images/ERD_project5.png)
 
-![alt text](http://url/to/img.png)
-
-
+WireFrame
+![alt text](https://github.com/jaredkranzler/GA-Project_5/blob/master/Images/Main.png)
 
 
 
